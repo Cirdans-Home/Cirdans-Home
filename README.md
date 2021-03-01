@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+This is my main GitHub repository
+- 🔭 I’m currently working on the following projects
+  - Adding the [PSCTOOLKIT](https://psctoolkit.github.io/) support to the Sundials Library for the distributed solution of non-linear partial differential equations
+  - Collaborating on the new version of [PSBLAS3](https://github.com/sfilippone/psblas3) and on the general development of [PSCTOOLKIT](https://psctoolkit.github.io/)
+  - Working on [PSFUN: Parallel Sparse Function](https://cirdans-home.github.io/psfun/) a library for the computation of distributed matrix-function vector products for large sparse matrices,
+- 📫 How to reach me: [fdurastante.github.io](https://fdurastante.github.io)
+- ⚡ I work as a researcher at the [Mathematics Department](https://numpi.dm.unipi.it/people) of the [University of Pisa](http://www.dm.unipi.it/webnew/it/Persone/Docenti). 
+
 <!--
 **Cirdans-Home/Cirdans-Home** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
